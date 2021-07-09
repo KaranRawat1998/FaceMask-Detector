@@ -32,5 +32,7 @@ We propose a two-stage architecture for detecting masked and unmasked faces and 
 # Without Mask
 
 ## Technologies used
+![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-
+[<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/) [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width=150>](https://opencv.org/) [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=200>](https://matplotlib.org/) 
+[<img target="_blank" src="https://techscript24.com/wp-content/uploads/2020/10/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" width=200>](https://numpy.org/) 
